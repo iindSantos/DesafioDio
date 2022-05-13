@@ -1,0 +1,122 @@
+Direito Constitucional
+
+Teoria da Constituição
+
+Poder constituinte é o poder de criar ou modificar uma constituição. O titular do poder constituinte é o povo. O exercício pode ser democratico  (com participação popular) ou promulgada, autoritário: não tem participação popular. 
+
+
+1.	Poder Constituinte Originário: poder de criar uma nova constituição. 
+Característica: 
+•	Inicialidade: cria um novo estado, uma nova constituição;
+•	Incondicionalidade: não encontra uma forma preestabelecida de se expressar;
+•	Poder de Fato/Político ou Social: não há um documento prevendo sua criação;
+•	Perenidade: não é algo temporário
+•	Poder ilimitado juridicamente: não tem limitações jurídicas. (Sofre outros tipos de limitação.)
+
+
+1.	Poder Constituinte Derivado: ele deriva do originário, não cria uma nova constituição. Ele modifica uma constituição já existente ou cria uma constituição do Estado-membro.
+Características: 
+(tudo que o derivado é, o originário não é)
+•	Posterioridade, ele é criado.
+•	È condicionado;
+•	É um poder jurídico, entra previsão na ordem jurídica
+•	Limitado juridicamente (pode ser formal ou Procedimental: iniciativa, aprovação, rejeição e promulgação; ou circunstanciais: estado de defesa, estado de sítio e intervenção federal; materiais: cláusulas pétreas: separação dos poderes, direitos e garantias fundamentais. forma federativa de estado e o voto direto, secreto, universal e periódico (voto obrigatório não é cláusula pétrea.).
+Limitação temporal: prazo que não pode ser alterada a constituição. A CF não adota.
+
+Tem, pelo menos, duas espécies de poder constituinte:
+1. Poder derivado de reforma: produz uma emenda constitucional;
+Passos: Apresentação de uma proposta de emenda à constituição (PEC); quem pode apresentar é o Presidente da República ( se iniciada por este, inicia-se na câmara dos deputados); pelo menos 1 ⁄ 3 dos deputados federais; pelo menos 1 ⁄ 3 dos senadores (SF); + 1 ⁄ 2 das assembleias legislativas dos Estados membros ou da Câmara distrital.
+2. Poder derivado decorrente: poder que os estados membros têm de fazer suas constituições ou o distrito federal de fazer sua lei orgânica 
+
+
+Se rejeitada, a PEC é arquivada e se aplica e irrepetibilidade na modalidade absoluta, ou seja, o assunto não poderá ser objeto de nova PEC na mesma sessão legislativa (ano). 
+
+Classificação das normas constitucionais quanto a sua eficácia:
+
+Normas de eficácia exaurida: normas que nunca foram revogadas, mas não produzem efeito, pois foram criadas com prazo determinado. (José afonso da SIlva)
+
+
+•	Normas de eficácia plena: são aquelas capazes de produzir os plenos efeitos, com a sua mera vigência; tem autoaplicabilidade.;
+•	Normas de eficácia contida: produzem seus efeitos com a mera vigência, porém, podem ter seu âmbito de abrangência reduzido por uma outra norma ou por conceitos éticos jurídicos. 
+•	Norma de eficácia limitada: Têm aplicabilidade indireta/mínima… Não produz os seus principais efeitos com a mera vigência, precisa de algo que complemente seu sentido. 
+Ex.: Direito de greve do servidor público
+As normas de eficácia limitadas, desde  sua vigência, já produz alguns efeitos.
+Eficácia Mínima: provoca revogação das normas anteriores, com elas incompatíveis; vincula o poder público.
+
+
+Direito à vida, igualdade e liberdade
+art. 5°Todos são iguais perante a lei, sem distinção de qualquer natureza, garantindo-se aos brasileiros e aos estrangeiros residentes no País a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à propriedade, nos termos seguintes
+
+UM estrangeiro que não é residente, também faz jus, qualquer pessoa que esteja sob a jurisdição da república federativa do Brasil, independente de estar aqui fisicamente. 
+
+
+1.	Direito à vida
+Aspecto negativo: direito de estar vivo sem interferência do poder público, qual o modo de vida deseja levar;
+Aspecto positivo:direito de ter acesso aos meios necessários a uma vida digna; uma atuação do poder público para garantir o direito à vida. 
+
+Obs. apesar de ser uma condição para o exercpicio de outros direitos, não é um direito absoluto, sendo possível, em situações excepcionais, a pena de morte e o aborto.
+Obs.: a proteção ao direito à vida não impede a pesquisa e terapia com células-tronco embrionárias (ADI 3510)
+1.	Direito fundamental à igualdade: 
+
+
+4. Direitos à liberdade (não fazer)
+
+(I) Locomoção (art. 5 LXI e LXVII)
+
+LXI - ninguém será preso senão em flagrante delito ou por ordem escrita e fundamentada de autoridade judiciária competente, salvo nos casos de transgressão militar ou crime propriamente militar, definidos em lei;  (tanto penal, quanto civil)
+
+LXVII - não haverá prisão civil por dívida, salvo a do responsável pelo inadimplemento voluntário e inescusável de obrigação alimentícia e a do depositário infiel;
+
+                          Súmula Vinculante 25 – Depositário infiel (PActo são JOsé da Costa rica)
+É ilícita a prisão civil de depositário infiel, qualquer que seja a modalidade do depósito.
+
+Não é inconstitucional, é ilícita. 
+
+(II) Expressão (art. 5 IV, V, IX)
+
+IV - é livre a manifestação do pensamento, sendo vedado o anonimato;
+V - é assegurado o direito de resposta, proporcional ao agravo, além da indenização por dano material, moral ou à imagem;
+IX - é livre a expressão da atividade intelectual, artística, científica e de comunicação, independentemente de censura ou licença;
+O supremo entende que é possível a biografia não autorizada, mas se houver alguma ofensa indefinida, alguma inverdade, quem sofreu a ofensa terá direito a indenização por dano moral, material e a imagem
+direitos e deveres individuais e coletivos - Direito à propriedade 
+Propriedade: junção de vários sub direitos: direito de uso, de fruir e de reivindicar bens. A propriedade pode incidir de bens materiais e imateriais.
+1.	Função social da propriedade: elemento limitante  
+2.	Desapropriação: pode se justificar por necessidade pública, utilidade pública ou interesse social.     Como regra, exige prévia e justa indenização em dinheiro. U/E/DF…
+Exceção: 
+•	desapropriação sanção de imovel urbano: só quem pode realizar é o município e só pode incidir sobre imovek urbano, quando houver descumprimento da função social do imovel: verifica-se se cumpre ou não o plano direitos, com municípios com mais de 20 mil habitantes. 
+Parcelamento da edificação compulsória; IPTU progressivo, em último caso,  desapropriação sancionatória. 
+•	Desapropriação para fins de reforma agrária: só pode ser realizada pela união, e em umovel rural, que não atenda sua função social. Art, 186
+Indenização: benfeitoria útil e necessária: Dinheiro; Restante: TDA; até 20 anos para resgatar
+•	Desapropriação confiscatória: art 243 -> perde o bem e não recebe indenização: cultivo de plantas psicotrópicas ilegais ou exploração de trabalho escravo.
+Desapropriação é diferente de requisição administrativa, que apenas atende o direito de uso, e só verá indenização se houver dano. 
+Direito de reunião
+XVI - todos podem reunir-se pacificamente, sem armas, em locais abertos ao público, independentemente de autorização, desde que não frustrem outra reunião anteriormente convocada para o mesmo local, sendo apenas exigido prévio aviso à autoridade competente;
+elemento subjetivo> grupo de pessoas 
+formal: organização
+Objetivo: desarmada; pacífica
+Temporário
+Finalístico/Teleológico: exercício de liberdade de expressão
+Espacial: tem que ser em local aberto ao público. 
+ 
+Observação: Marcha da machonha é lícito.
+Não precisa de autorização, e sim um prévio aviso, para evitar frustrar uma outra reunião no mesmo dia e local. 
+Princípio da antecedência do aviso: quem avisa primeiro, tem prioridade. 
+MS objetiva o direito de reunião. 
+Direito a associação
+XVII - é plena a liberdade de associação para fins lícitos, vedada a de caráter paramilitar;
+XVIII - a criação de associações e, na forma da lei, a de cooperativas independem de autorização, sendo vedada a interferência estatal em seu funcionamento;
+XIX - as associações só poderão ser compulsoriamente dissolvidas ou ter suas atividades suspensas por decisão judicial, exigindo-se, no primeiro caso, o trânsito em julgado;
+XX - ninguém poderá ser compelido a associar-se ou a permanecer associado;
+XXI - as entidades associativas, quando expressamente autorizadas, têm legitimidade para representar seus filiados judicial ou extrajudicialmente;
+ 
+A constituição protege a criação (não depende de autorização do estado), a funcionamento ( o poder público não pode interferir, só determina que não pode ter caráter paramilitar e ter finalidade lícita); o poder público pode determinar sua dissolução compulsória com decisão judicial transitada em julgado. Para suspender a atividade, apenas decisão. 
+ É livre a associação e desassociação 
+Como regra, a associação pode representar os associados, judicialmente ou extrajudicialmente, com autorização dos associados. Exceção: A associação pode substituir processualmente os associados, não sendo necessária a autorização especial, a mera previsão é suficiente. 
+O mandado de segurança coletivo é um exemplo de substituição. 
+LXX - o mandado de segurança coletivo pode ser impetrado por:
+a) partido político com representação no Congresso Nacional;
+b) organização sindical, entidade de classe ou associação legalmente constituída e em funcionamento há pelo menos um ano, em defesa dos interesses de seus membros ou associados;
+ 
+ 
+ 
+
